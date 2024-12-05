@@ -1,0 +1,18 @@
+1. write a program to create a new process
+2. write a program to create a new process and display the return value fork in  child and parent
+3. write a program to create a new process and make the parent wait for the child
+4. write a program to create a new process and diplay process id of child and parent process
+5. write a program to create a new process and display process id of parent process of both child and parent of parent process.
+6. write a program to create an Orphan process (Hint; Use sleep(20) in child process.
+7. write a program to create a zombie process. (Hint: Use sleep(20) in parent process and use exit(0) in child)
+8. write a program to create a new process and make the child process totally different from parent (Hint: use execlp() system call)
+9. Write a program to illustrate thread concept
+10. Write a program to illustrate sharing of variables among threads
+11. Write a program to illustrate thread cancellation.
+12.Write a program to demonstrate IPC using a pipe.
+13. Write a program to illustrate IPC using Shared memory.
+14. Write a program to illustrate IPC using Message Queues.
+15. Write a program to illustrate process scheduling using FCFS algorithm (Note: All processes arrive at same time) 
+16. Write a program to illustrate process scheduling using SJF algorithm (Note: All processes arrive at same time) 
+
+  
